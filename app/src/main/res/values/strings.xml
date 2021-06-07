@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AgendaSharedPreferens</string>
+    <string name="caja_nombre">Nombre</string>
+    <string name="caja_descripcion">Descripcion</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="btn_buscar">Buscar</string>
+    <string name="btn_limpiar">Limpiar</string>
+</resources>
